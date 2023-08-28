@@ -34,7 +34,7 @@ This repository contains code for training a Reinforcement Learning (RL) agent t
 
     ```bash
     git clone https://github.com/SyaugiAlkaf/supermario-syaugi.git
-    cd your-repo
+    cd supermario-syaugi
     ```
 
 2. **Install the required dependencies using `pip` & Run the main training script:**
