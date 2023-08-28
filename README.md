@@ -30,6 +30,26 @@ This repository contains code for training a Reinforcement Learning (RL) agent t
 
 ## How to Use
 
-1. Install the required dependencies using `pip`:
-   ```bash
-   pip install gym gym_super_mario_bros numpy matplotlib tensorflow
+1. **Clone this repository:**
+
+    ```bash
+    git clone https://github.com/SyaugiAlkaf/supermario-syaugi.git
+    cd your-repo
+    ```
+
+2. **Install the required dependencies using `pip` & Run the main training script:**
+
+    ```bash
+    pip install gym gym_super_mario_bros numpy matplotlib tensorflow
+    python supermario.py
+    ```
+
+3. **Observe the training progress and the rewards plot that visualizes the agent's learning.**
+
+## Note
+
+- This repository provides an overview of training a Super Mario Bros-playing agent using DQN. For a detailed understanding of the implementation and results, refer to the code and comments in the main script.
+
+- Feel free to contribute, experiment, and improve upon the code!
+
+   
